@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Title</title>
+    <meta charset="UTF-8">
+    <meta name="format-detection" content="telephone=no">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Ubuntu+Mono:wght@400;700&display=swap&_v=20221206214000"
+        rel="stylesheet">
+    <link rel="stylesheet" href="css/style.min.css?_v=20221206214000">
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <div class="container">
+        <div class="content">
+            <section class="section section__home home">
+                <div class="home__avatar">
+                    <picture>
+                        <source srcset="img/avatar.webp" type="image/webp"><img src="img/avatar.jpg" alt="Hello)"
+                            title="Hello" class="home__avatar-image">
+                    </picture>
+                </div>
+                <div class="home__info">
+                    <h2 class="home__name">Vladyslav Ostapenko Frontend Developer</h2>
+                    <h3 class="home__about">I devote almost all my free time to writing code or studying it.
+                        I am studying on my own, but I am also in the 4rd year at the National Aviation University.</h3>
+                    <div class="home__btn">
+                        <a href="../files/OstapenkoVladCV.pdf" class="home__download btn" download>Download my CV</a>
+                    </div>
+                </div>
+            </section>
+            <section class="section section__projects projects">
+                <div class="projects__container">
+                    <button class="btn__load btn">See projects</button>
+                    <!-- <article class="project__item item">
+            <picture><source srcset="img/museum.webp" type="image/webp"><img src="img/museum.jpg" alt="img" class="item__image"></picture>
+            <div class="item__info info" data-id="1">
+                <img src="img/infoIcon.svg" alt="info" class="info__icon">
+            </div>
+        </article> -->
+                </div>
+            </section>
+            <section class="section section__contacts contacts">
+                <h2 class="contacts__title">Contacts</h2>
+                <ul class="contacts__list">
+                    <li class="contact__list-item" id="email">
+                        <a href="mailto: vlad.ostapen15@gmail.com"><img src="img/svg/email.svg" alt="email"
+                                class="contact__list-img"></a>
+                        <div class="contacts__help">
+                            Email
+                        </div>
+                    </li>
+                    <li class="contact__list-item" id="github">
+                        <a href="https://github.com/sk1f112"><img src="img/svg/github.svg" alt="gihub"
+                                class="contact__list-img"></a>
+                        <div class="contacts__help">
+                            GitHub
+                        </div>
+                    </li>
+                    <li class="contact__list-item" id="linkedin">
+                        <a href="https://www.linkedin.com/in/vlad-ostapenko-065908248/"><img src="img/svg/linkedin.svg"
+                                alt="linkedin" class="contact__list-img"></a>
+                        <div class="contacts__help">
+                            Linkedin
+                        </div>
+                    </li>
+                    <li class="contact__list-item" id="telegram">
+                        <a href="https://t.me/vladyslavnini"><img src="img/svg/telegram.svg" alt="telegram"
+                                class="contact__list-img"></a>
+                        <div class="contacts__help">
+                            Telegram
+                        </div>
+                    </li>
+
+                </ul>
+            </section>
+            <div class="container__btns">
+                <button class="btn__prev btn">Prev section</button>
+                <button class="btn__next btn">Next section</button>
+            </div>
+        </div>
+        <div class="body__img">
+            <picture>
+                <source srcset="img/peeking.webp" type="image/webp"><img src="img/peeking.png" alt="I`m sure about it"
+                    class="promise">
+            </picture>
+            <div class="words">
+                He is good at frontend. I promise
+            </div>
+        </div>
+    </div>
+    <div class="modal">
+    </div>
+    <div class="modal__shadow"></div>
+    <script src="js/app.min.js"></script>
+</body>
+
+</html>

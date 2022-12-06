@@ -1,0 +1,77 @@
+{
+    "projects": [
+        {
+            "id": 0,
+            "img": "museum.jpg",
+            "title": "Museum",
+            "about": "One of the best my project, cost calculator I make without internet. Responsive, cross-browser site. The site has sliders, custom video player, parallaxes with image generation in galleries, cost calculator with modal window",
+            "technologies": ["HTML", "CSS", "SCSS", "Gulp", "Swiper", "JS", "Git", "Figma"],
+            "UrlGithub": "https://github.com/sk1f112/MuseumProject",
+            "Url": "https://sk1f112.github.io/MuseumProject/"
+        },
+        {
+            "id": 1,
+            "img": "portfolio.jpg",
+            "title": "Portfolio",
+            "about": "Responsive, cross-browser site. The site has a translation into two languages, tabs, switching the color theme.",
+            "technologies": ["HTML", "CSS", "SCSS", "Gulp", "JS", "Git", "Figma"],
+            "UrlGithub": "https://github.com/sk1f112/portfolio",
+            "Url": "https://sk1f112.github.io/portfolio/"
+        },
+        {
+            "id": 2,
+            "img": "memory.jpg",
+            "title": "MemoryGame",
+            "about": "The game was made on the RSS course, there is local storage, image flip animations",
+            "technologies": ["HTML", "CSS", "JS", "Git"],
+            "UrlGithub": "https://github.com/rolling-scopes-school/sk1f112-JSFEPRESCHOOL/tree/memory-game",
+            "Url": "https://rolling-scopes-school.github.io/sk1f112-JSFEPRESCHOOL/memory-game/"
+        },
+        {
+            "id": 3,
+            "img": "travel.jpg",
+            "title": "Travel",
+            "about": "Pretty and responsive website. With beautiful slider and sticky header, parallaxes, popup in popup",
+            "technologies": ["HTML", "CSS", "SCSS","JS", "Git", "Swiper","Figma"],
+            "UrlGithub": "https://github.com/sk1f112/Travel",
+            "Url": "https://sk1f112.github.io/Travel/#"
+        },
+        {
+            "id": 4,
+            "img": "snikpic.jpg",
+            "title": "SnikPic",
+            "about": "Responsive site. With tabs, js-selector and magic line in header, slider.",
+            "technologies": ["HTML", "CSS", "SCSS", "JS", "Swiper","Git", "Figma"],
+            "UrlGithub": "https://github.com/sk1f112/SnikPic",
+            "Url": "https://sk1f112.github.io/SnikPic/"
+        },
+        {
+            "id": 5,
+            "img": "holafashion.jpg",
+            "title": "HolaFashion",
+            "about": "One of the my first website project. Make responsive slider without libs",
+            "technologies": ["HTML", "CSS", "JS", "Git", "Figma"],
+            "UrlGithub": "https://github.com/sk1f112/HolaFashion",
+            "Url": "https://sk1f112.github.io/HolaFashion/hola-fashion/"
+        },
+        {
+            "id": 6,
+            "img": "guessmynumber.jpg",
+            "title": "GuessMyNumber",
+            "about": "My first, responsive game where the user needs to guess a random number from 1 to 20",
+            "technologies": ["HTML", "CSS", "SCSS", "JS", "Git", "Figma"],
+            "UrlGithub": "https://github.com/sk1f112/Guess-my-number",
+            "Url": "https://sk1f112.github.io/Guess-my-number/"
+        },
+        {
+            "id": 7,
+            "img": "mycv.jpg",
+            "title": "MyCV",
+            "about": "My responsive, cross-browser website. Maked with my style and idea",
+            "technologies": ["HTML", "CSS", "SCSS", "JS", "Git"],
+            "UrlGithub": "1",
+            "Url": "1"
+        }
+        
+    ]
+}
