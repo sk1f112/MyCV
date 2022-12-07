@@ -69,8 +69,8 @@
             "title": "MyCV",
             "about": "My responsive, cross-browser website. Maked with my style and idea",
             "technologies": ["HTML", "CSS", "SCSS", "JS", "Git"],
-            "UrlGithub": "1",
-            "Url": "1"
+            "UrlGithub": "https://github.com/sk1f112/MyCV",
+            "Url": "https://sk1f112.github.io/MyCV/"
         }
         
     ]
